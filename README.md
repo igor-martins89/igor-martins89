@@ -35,3 +35,19 @@ object **Igor Martins** {
 &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 &nbsp;![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 &nbsp;![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+<br><br><br><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=138AF2&height=60&section=footer"/>
+
+##
+
+<br><br>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=igor-martins89&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-martins89&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true"> <br>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=igor-martins89&theme=dark&hide_border=true">
+</div>
